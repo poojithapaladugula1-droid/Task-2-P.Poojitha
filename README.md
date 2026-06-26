@@ -43,7 +43,7 @@ This project is part of the DecodeLabs Data Analytics Internship. It focuses on 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Data-Analytics-Project-2.git
+   git clone https://github.com/poojithapaladugula1-droid/Task-2-P.Poojitha.git
    ```
 
 2. Open the project in **PyCharm**.
